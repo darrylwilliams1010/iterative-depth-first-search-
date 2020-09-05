@@ -1,9 +1,13 @@
 # iterative-depth-first-search-
 Tree search
-     A
-  B      C
-D   E  F   G
-Suppose G is the goal, and the depth is 1
-Your output should be “A: G Not Found, A B C: G Not Found”
-Suppose G is the goal, and the depth is 2 
-Your output should be “A: G Not Found, A B C: G Not Found, A B D E C F G: Found G”
+
+
+
+![image](https://user-images.githubusercontent.com/45323165/92297828-3ae83380-ef11-11ea-8a50-d53c89cef91d.png)
+
+
+
+
+## How to run it
+1. download java file 
+2. use any java complier to run file 
